@@ -2,6 +2,6 @@ all:
   doctrine:
     class: sfDoctrineDatabase
     param:
-      dsn: 'mysql:host=localhost;dbname=template-symfony'
+      dsn: 'mysql:host=localhost;dbname=template_symfony'
       username: root
       password: null
